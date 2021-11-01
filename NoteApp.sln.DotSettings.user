@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9fcc4c63_002Db265_002D4746_002D9c0b_002D00d6776f6c56/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Adds_note" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0A758EB0-6189-4CF5-9A5C-53789C1BBAD1::.NETCoreApp,Version=v3.1::NoteAppTests.NoteServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e8111994_002D7ec0_002D4c9c_002D9301_002D100e40da26b5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Adds_note #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0A758EB0-6189-4CF5-9A5C-53789C1BBAD1::.NETCoreApp,Version=v3.1::NoteAppTests.NoteServiceTests.Adds_note&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0A758EB0-6189-4CF5-9A5C-53789C1BBAD1::.NETCoreApp,Version=v3.1::NoteAppTests.NoteServiceTests.Deletes_notes&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
